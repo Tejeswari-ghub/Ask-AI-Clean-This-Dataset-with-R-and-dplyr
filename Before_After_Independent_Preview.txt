@@ -1,0 +1,15 @@
+INDEPENDENT PYTHON PREVIEW — NOT RSTUDIO CONSOLE OUTPUT
+Source rows: 610
+Missing Product: 49
+Missing Quantity: 95
+Exact duplicate rows: 9
+Repeated OrderIDs (raw): 10
+Nonpositive Quantity: 81
+Quantity > 100: 20
+Distinct conflicting OrderIDs after exact deduplication: 1
+Proposed cleaned rows: 378
+Cleaned missing values: 0
+Cleaned exact duplicate rows: 0
+Cleaned repeated OrderIDs: 0
+Note: CustomerID and Region do not exist in the supplied CSV.
+Outlier rule Quantity > 100 is an explicit assumption needing student review.

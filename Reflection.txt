@@ -1,0 +1,18 @@
+BDA400 Assignment 4 — Personal Reflection (100–150 words)
+Student: Tejeswari Ramoju
+
+AI Assistance Declaration: I used ChatGPT (GPT-6, 2026-10-31) for data-cleaning ideas, R syntax suggestions, and documentation. The prompts and key responses are documented in AI_Prompts_Appendix.md. I must independently verify the code and calculations and remain responsible for the final work.
+
+IMPORTANT: The instructor explicitly requires this paragraph to be written in the student's own words, without AI writing it.
+
+WRITE YOUR REFLECTION BELOW (100–150 words):
+
+[Your own paragraph after running and verifying the R script.]
+
+PERSONAL WRITING GUIDE (delete before submission):
+- Sentences 1–2: Which dplyr suggestions helped with missing values and duplicates?
+- Sentences 3–4: What was inaccurate about suggestions referring to CustomerID or Region, which are not in this CSV?
+- Sentences 5–6: What did you personally observe when comparing before/after outputs?
+- Sentences 7–8: How did you check the outlier rule and what would you ask AI more clearly next time?
+- Mention one concrete correction you made yourself.
+- Confirm your final word count is 100–150.
